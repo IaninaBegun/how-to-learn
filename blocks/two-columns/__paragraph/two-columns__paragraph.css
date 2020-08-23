@@ -1,0 +1,16 @@
+.two-columns__paragraph {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 0;
+  padding: 0;
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+}
+
+.two-columns__paragraph:nth-of-type(2n) {
+  display: block;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}

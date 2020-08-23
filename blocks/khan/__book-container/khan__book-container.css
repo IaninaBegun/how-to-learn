@@ -1,0 +1,7 @@
+.khan__book-container {
+  display: flex;
+  flex-flow: row;
+  margin: 0;
+  box-sizing: border-box;
+  padding-top: 68px;
+}

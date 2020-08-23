@@ -1,0 +1,11 @@
+.techniques {
+  display: flex;
+  position: relative;
+  width: 80%;
+  min-height: 1100px;
+  margin: 0 auto;
+  padding-top: 100px;
+  padding-bottom: 0;
+  flex-direction: column;
+  box-sizing: border-box;
+}

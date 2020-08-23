@@ -1,0 +1,7 @@
+.section-title_theme_dark {
+  justify-self: flex-start;
+  align-self: center;
+  color: white;
+  margin-top: 90px;
+  z-index: 4;
+}

@@ -1,0 +1,12 @@
+.cards {
+  display: flex;
+  position: relative;
+  width: 920px;
+  min-height: 1100px;
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: flex-start;
+}
