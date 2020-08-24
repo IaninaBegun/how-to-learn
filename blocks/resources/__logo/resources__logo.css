@@ -1,7 +1,14 @@
 .resources__logo {
+  display: block;
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   width: 270px;
   height: 38px;
+  object-fit: contain;
+}
+
+.resources__logo:hover {
+  opacity: 50%;
+  transition: opacity .6s ease;
 }
